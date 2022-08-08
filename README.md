@@ -1,6 +1,6 @@
 ## Stochastic Route Planner
 
-This repository contains our implementation of a stochastic route planner for the Swiss bus network in Zurich as part of COM-490 _Large-scale data science for real-world data_ at EPFL. Technologies used includes PySpark, Hive, HDFS, SQL, and Python. 
+This repository contains our implementation of a stochastic route planner for the Swiss bus network in Zurich as part of COM-490 _Large-scale data science for real-world data_ at EPFL. Technologies used includes PySpark, Hive, HDFS, SQL, and Python. The problem description is attached below.
 
 __Authors:__
 - Andreas Aarrestad
